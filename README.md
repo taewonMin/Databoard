@@ -45,12 +45,13 @@
 ![image](https://user-images.githubusercontent.com/37923543/193889452-651ff926-eb90-4e6a-90f5-f3837de8ec9a.png)
 
 ### 5. 모바일앱
-> 모바일앱의 내 양식 메뉴, 양식 게시판, 미리보기 화면입니다.
+> 모바일앱의 내 양식 메뉴, 양식 게시판, 미리보기, 카카오톡 공유 화면입니다.
 
 <div>
-    <img src="https://user-images.githubusercontent.com/37923543/193892969-ba6a41a0-6c93-4f72-9b1b-b307c8902ca7.png" width="320" height="650"/>
-    <img src="https://user-images.githubusercontent.com/37923543/193889720-f0197210-4f69-46c4-bc4e-8ba59a1bb836.png" width="320" height="650"/>
-    <img src="https://user-images.githubusercontent.com/37923543/193893028-fcd38f07-eeb2-4f08-b669-814ef8f9781a.png" width="320" height="650"/>
+    <img src="https://user-images.githubusercontent.com/37923543/193892969-ba6a41a0-6c93-4f72-9b1b-b307c8902ca7.png" width="300" height="650"/>
+    <img src="https://user-images.githubusercontent.com/37923543/193889720-f0197210-4f69-46c4-bc4e-8ba59a1bb836.png" width="300" height="650"/>
+    <img src="https://user-images.githubusercontent.com/37923543/193893028-fcd38f07-eeb2-4f08-b669-814ef8f9781a.png" width="300" height="650"/>
+    <img src="https://user-images.githubusercontent.com/37923543/193895689-28f083a9-17e2-49eb-9b43-b1d48efedf33.png" width="300" height="650"/>
 </div>
    
 ## 담당 기능
